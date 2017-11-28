@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         
         print("Welcome in Delhi/NCR")
         // Do any additional setup after loading the view, typically from a nib.
+        print("Welcome in Gurgoan")
+        print("Welcome in INDIA")
+
     }
 
     override func didReceiveMemoryWarning() {
